@@ -4,6 +4,6 @@ Team Name: Tight-fisted Green Owls
 
 Cameron Klosky
 
-Brenden Vaccaro
+Brenden Vaccaro - bjv23@pitt.edu
 
 Robert Exley 
