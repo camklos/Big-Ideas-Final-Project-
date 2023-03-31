@@ -2,7 +2,7 @@
 
 Team Name: Tight-fisted Green Owls
 
-Cameron Klosky
+Cameron Klosky - cek115@pitt.edu
 
 Brenden Vaccaro - bjv23@pitt.edu
 
