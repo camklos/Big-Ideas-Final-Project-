@@ -3,10 +3,13 @@
 Team Name: Tight-fisted Green Owls
 
 Cameron Klosky - cek115@pitt.edu
+- CamNotebook
 
 Brenden Vaccaro - bjv23@pitt.edu
+- BrendenNotebook
 
 Robert Exley - rae70@pitt.edu
+- RobertNotebook
 
 # Which Neighborhood is the best to host a business?
 ## Mount Oliver Borough!
