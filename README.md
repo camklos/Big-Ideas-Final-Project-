@@ -4,6 +4,8 @@ Team Name: Tight-fisted Green Owls
 
 Group #43
 
+Our goal in this project is to find the best neighborhood in Pittsburgh by finding the best neighborhood to host a business in Pittsburgh. We looked at factors that would not be attractive to businesses, then found which neighborhoods had the least of these unattractive factors to determine which neighborhood is best.
+
 Cameron Klosky - cek115@pitt.edu
 - CamNotebook
 
